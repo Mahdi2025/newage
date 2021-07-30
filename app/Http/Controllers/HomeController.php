@@ -9,7 +9,6 @@ use App\Models\SkillsModel;
 use App\Models\HobbiesModel;
 use App\Models\EmploymentModel;
 
-
 class HomeController {
 
     public function index()
